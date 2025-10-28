@@ -1,0 +1,28 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-store/
+
+# Env
+.env
+/server/.env
+/client/.env
+
+# Logs
+logs
+*.log
+logs/*
+
+# Uploads
+/server/uploads/
+
+# Dist
+/server/dist/
+/client/dist/
+
+# IDE
+.vscode/
+.idea/
+*.iml
